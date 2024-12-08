@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @djdcybersecurity
-- 👀 I’m interested in Cybersecurity, Software Development, and Applied Artificial Intelligence.
-- 🌱 I’m currently learning Linux, Python3, Hardwaresecurity, and Foundations of cybersecurity.
-- 💞️ I’m looking to collaborate on research and computer engineering inovations.
-- 📫 How to reach me daren.j.diaz-1@ou.edu
-- ⚡ Fun fact: I was originally a pre-med major.
+# Hey Everyone, My name is Daren aka DJDCYBERSECUIRTY!
 
-<!---
-djdcybersecurity/djdcybersecurity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+# I am a college student at the University of Oklahoma.
+    -I have a Bachelors in Public Health.
+    -Currently Working on another Bachelors in Cybersecurity.
+    -Mastered Linux.
+    -Mastered Vim, Nano, and VS Code.
+    -Mastered Cybersecuirty Foundations.
+    -Mastered Hardware Security.
+    -Mastered Applied Statistics Computing.
+    -Mastered Use of Generative AI.
+
+
+
+# My Goals include:
+    -Complete atleast 1 new Project/Repository a week.
+    -Master Python3.
+    -Master C+.
+    -Master Fundamentals of Operating Systems.
+    -Master Database Fundamentals.
+    -Master Computer Networks.
+    -Master Cyberforensics Fundamentals.
+  
+    
