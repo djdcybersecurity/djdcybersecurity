@@ -4,7 +4,7 @@
 
 
 # I am a college student at the University of Oklahoma.
-    -I have a Bachelors in Public Health.
+
     -Currently Working on another Bachelors in Cybersecurity.
     -Mastered Linux.
     -Mastered Vim, Nano, and VS Code.
