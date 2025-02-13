@@ -80,7 +80,7 @@ Passionate about **technology, business, and healthcare innovation**. Dedicated 
 ## 🚀 Let’s Connect!  
 
 📫 **GitHub:** [github.com/DarenDiaz](https://github.com/djdcybersecurity)  
-💼 **LinkedIn:** [linkedin.com/in/DarenDiaz](www.linkedin.com/in/daren-diaz-442499220)  
+💼 **LinkedIn:** [linkedin.com/in/DarenDiaz](https://www.linkedin.com/in/daren-diaz-442499220/)  
 📝 **Blog:** *(Coming Soon!)*  
 
 💡 *Always open to collaboration, discussions, and opportunities to learn & grow!*  
