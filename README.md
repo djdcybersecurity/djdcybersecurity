@@ -3,9 +3,9 @@
 
 
 
-# I am a college student at the University of Oklahoma.
+# I am a life long learner.
 
-    -Currently Working on another Bachelors in Cybersecurity.
+    -Mastered Information Technology Foundations
     -Mastered Linux.
     -Mastered Vim, Nano, and VS Code.
     -Mastered Cybersecuirty Foundations.
