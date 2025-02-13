@@ -52,18 +52,18 @@ Passionate about **technology, business, and healthcare innovation**. Dedicated 
 ## 🎯 Current Goals  
 
 📌 **Expanding My Knowledge in Advanced Topics:**  
-🚀 **Master Wireless Communications** *(ECE 5123)*  
-📡 **Understand LTE Advanced and 5G Technologies** *(ECE 5153, ECE 5973)*  
-🔗 **Gain Expertise in Telecommunications Technology** *(ECE 5553)*  
-📊 **Study Information Theory and Probabilistic Programming** *(ECE 5583, ECE 5583)*  
+🚀 **Master Wireless Communications** 
+📡 **Understand LTE Advanced and 5G Technologies** 
+🔗 **Gain Expertise in Telecommunications Technology** 
+📊 **Study Information Theory and Probabilistic Programming** 
 💡 **Deep Dive into Free Space Optics** *(ECE 5593)*  
-🧠 **Advance in Machine Learning for Engineers** *(ECE 5970, ECE 5973)*  
-🔍 **Explore Complex Systems and Networks** *(ECE 5970)*  
-🌎 **Master Internet of Things (IoT) Technologies** *(ECE 5970)*  
-🖥 **Enhance Skills in Digital Signal Processing** *(ECE 5213)*  
-🤖 **Develop Expertise in Artificial Neural Networks & Deep Learning** *(ECE 5973)*  
-🛰 **Understand RF Microelectronics and Wireless Networks** *(ECE 5973, ECE 5973)*  
-📷 **Advance in Computer Vision** *(ECE 5973)*  
+🧠 **Advance in Machine Learning for Engineers** 
+🔍 **Explore Complex Systems and Networks** 
+🌎 **Master Internet of Things (IoT) Technologies**  
+🖥 **Enhance Skills in Digital Signal Processing** 
+🤖 **Develop Expertise in Artificial Neural Networks & Deep Learning**  
+🛰 **Understand RF Microelectronics and Wireless Networks** 
+📷 **Advance in Computer Vision** 
 
 ---
 
