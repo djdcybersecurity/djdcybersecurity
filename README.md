@@ -19,7 +19,7 @@ Passionate about **technology, business, and healthcare innovation**. Dedicated 
 
 📚 **Bachelor of Arts in Community Health**  
 🖥 **Bachelor of Science in Cybersecurity**  
-🚀 **Pursuing a Master’s in Computer Engineering** *(Exploring specializations!)*  
+🚀 **Graduate Student at The University of Oklahoma a Master of  Science in Software Development and Integration** 
 
 ---
 
