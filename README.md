@@ -27,7 +27,7 @@ Passionate about **technology, business, and healthcare innovation**. Dedicated 
 
 ✅ **IT Foundations**  
 ✅ **Linux (CLI, Scripting, Admin)**  
-✅ **Vim, Nano, VS Code**  
+✅ **Vim, NeoVim, Nano, VS Code**  
 ✅ **Cybersecurity (Network & System Security, Pentesting)**  
 ✅ **Hardware Security**  
 ✅ **Applied Statistics Computing**  
